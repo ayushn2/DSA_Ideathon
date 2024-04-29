@@ -3,6 +3,7 @@ Run the following cammands in your terminal :
   2) ./main
 
 This will be your output :
+
   Enter start position (x y): 0 0 //Enter initial 2D position 
   Enter end position (x y): 7 7 // Enter the final 2D position
   Minimum moves by BFS: 6
